@@ -1,11 +1,15 @@
 # Indice
 
+[Tarefa Alternativa: Construção de Gerenciador de Tarefas](#tarefa-alternativa-constru%C3%A7%C3%A3o-de-gerenciador-de-tarefas)<br>
+[Créditos:](#cr%C3%A9ditos)<br>
+[LinkedIn: ](#linkedin)<br>
+
 
 # Tarefa Alternativa: Construção de Gerenciador de Tarefas
 
 Olá!
 
-Como parte da tarefa alternativa proposta, desenvolvemos uma aplicação de gerenciador de tarefas seguindo o tutorial do vídeo "Projeto - Gerenciador de Tarefas" disponível aqui do canal Monolito PHP.
+Como parte da tarefa alternativa proposta, desenvolvi uma aplicação de gerenciador de tarefas seguindo o tutorial do vídeo "Projeto - Gerenciador de Tarefas" disponível no canal Monolito PHP.
 
 Descrição
 Neste repositório, você encontrará uma implementação da aplicação de gerenciador de tarefas utilizando HTML5, CSS3 e PHP, conforme demonstrado no vídeo mencionado.
@@ -79,6 +83,6 @@ O código foi desenvolvido com base no tutorial do canal Monolito PHP. O autor d
 
 ## LinkedIn: 
 
-Postagem no [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-ba708b2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+Link do meu [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-ba708b2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
